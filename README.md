@@ -1,4 +1,4 @@
-# breastcancer
+# Breast Cancer diagnosis ML classification 
 Machine Learning model based on Wisconsin Breast Cancer dataset.
 
 Preprocessed the data using StandardScaler.
